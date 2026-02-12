@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect fill="#000" width="512" height="512" rx="64"/>
+  <text x="256" y="340" text-anchor="middle" fill="#00fff0" font-size="300" font-family="monospace" font-weight="bold" style="filter: drop-shadow(0 0 20px #00fff066) drop-shadow(0 0 40px #00fff033)">M</text>
+  <rect x="60" y="400" width="392" height="3" fill="#ff00aa" opacity="0.8" style="filter: drop-shadow(0 0 8px #ff00aa88)"/>
+</svg>
